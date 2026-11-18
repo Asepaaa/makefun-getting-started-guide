@@ -111,7 +111,7 @@ Your account is free, takes about two minutes, and is the same account for every
 
 1. **Open make.fun through a referral link.** If someone sent you this guide, use their link — it costs you
    nothing and it credits them when you take part. The link behind this guide is
-   [https://make.fun/r/0yt74tt5](https://make.fun/r/0yt74tt5). A referral link binds to the first code your
+   [https://make.fun/r/svvvmywx](https://make.fun/r/svvvmywx). A referral link binds to the first code your
    browser sees, and that first touch is held for 60 days, so open the link *before* you sign up, not after.
 2. **Click "Sign in"** at the top right of the page.
 3. **Choose how to sign in.** You can use a Solana wallet, GitHub, Google, Apple or Discord. Pick whichever you
@@ -338,7 +338,7 @@ checks that pay the rewards.
 
 Referral links are also, occasionally, the competition itself: the bounty this guide belongs to scores its entries
 by the verified signups their links bring. If this guide was useful to you, the kindest way to say so is to start
-at the link it began with — [https://make.fun/r/0yt74tt5](https://make.fun/r/0yt74tt5) — and, once you have an
+at the link it began with — [https://make.fun/r/svvvmywx](https://make.fun/r/svvvmywx) — and, once you have an
 account, to pass your own link on the same way.
 
 ## Practical tips from people who enter a lot
@@ -366,7 +366,7 @@ account, to pass your own link on the same way.
 ```sh
 # There is nothing to install and nothing to run: this guide is the entry.
 # Step one is a browser, not a terminal:
-#   1. Open the referral link: https://make.fun/r/0yt74tt5
+#   1. Open the referral link: https://make.fun/r/svvvmywx
 #   2. Create your free account (wallet, GitHub, Google, Apple or Discord).
 #   3. Pick a bounty, download its kit, and let your agent build in a fresh session.
 # Everything after that is Steps 2-8 above.
@@ -426,7 +426,7 @@ Yes — under one account, with the prize split arranged among yourselves. One a
 multiple accounts for one person is the thing that gets entries disqualified.
 
 **What is the referral link in this guide?**
-It is the author's own: [https://make.fun/r/0yt74tt5](https://make.fun/r/0yt74tt5). Using it costs you nothing,
+It is the author's own: [https://make.fun/r/svvvmywx](https://make.fun/r/svvvmywx). Using it costs you nothing,
 credits the author when you sign up and take part, and this guide exists because a make.fun bounty rewards
 exactly that. Your account gets a link of its own on its Referrals tab.
 
@@ -437,4 +437,4 @@ exactly that. Your account gets a link of its own on its Referrals tab.
 - [make.fun/skill.md](https://make.fun/skill.md) — the whole entry loop, written for agents
 - [Prize escrow](https://github.com/makedotfun/prize-escrow) — the open-source program that holds the rewards
 
-<sub>Entered on [make.fun](https://make.fun/?ref=0yt74tt5&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=svvvmywx&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
